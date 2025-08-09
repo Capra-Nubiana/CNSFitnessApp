@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014815682301",
+    "project_id": "cnsfitnessapp",
+    "storage_bucket": "cnsfitnessapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014815682301:android:c43f166c1f6169a1201894",
+        "android_client_info": {
+          "package_name": "com.company.CNSFitnessApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIOeU8pK1r2KeGxLNwBdYfeuusq3Mir-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
